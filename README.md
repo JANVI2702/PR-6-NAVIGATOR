@@ -25,5 +25,11 @@ Features :
     
      -  Utilizes Bootstrap for styling and layout.
  
+  # Working Navigator video : 
+
+  
+
+https://github.com/user-attachments/assets/7c105379-e0b1-46a4-a839-9be834ef4a5b
+
 
       
