@@ -1,8 +1,29 @@
-# React + Vite
+# Project Title : Navigator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description:
 
-Currently, two official plugins are available:
+ - User Authentication (Registration & Login)
+ - Product Listing and Details
+ - Protected Routes (for authenticated users)
+ - Basic User Interface with Bootstrap
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features : 
+  - User Authentication :
+
+     -  Users can register with email and password.
+     -  Users can log in to access protected routes.
+     -  Logout functionality is implemented.
+       
+  - Product Listing :
+     -  Displays a list of products with basic information.
+     -   Allows users to view product details.
+       
+  -  Protected Routes :
+     -  Only authenticated users can access certain pages (Home, About, Contact, Products).
+   
+  -  Basic UI :
+    
+     -  Utilizes Bootstrap for styling and layout.
+ 
+
+      
